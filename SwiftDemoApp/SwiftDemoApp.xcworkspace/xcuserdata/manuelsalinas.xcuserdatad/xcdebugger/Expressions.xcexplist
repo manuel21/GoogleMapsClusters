@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ClusteringViewController.mapView(GMSMapView, markerInfoContents : GMSMarker) -&gt; UIView?:ClusteringViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ClusteringViewController.(mapView(GMSMapView, didTapAt : CLLocationCoordinate2D) -&gt; ()).(closure #1):ClusteringViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GMSReverseGeocodeResponse?.results()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
